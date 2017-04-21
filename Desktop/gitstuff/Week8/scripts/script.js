@@ -1,0 +1,1 @@
+$("#clouds").css("top", String($(document).scrollTop()/-10) + "px" );

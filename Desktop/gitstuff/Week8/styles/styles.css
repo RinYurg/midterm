@@ -1,0 +1,22 @@
+body, html {
+	padding: 0px;
+	margin: 0px;
+	/*background-color: blue;*/
+}
+body {
+	background-image: url("../images/BG.png");
+	background-attachment: fixed;
+	height: 8000px;
+	/**/
+	background-size: 100vw 100vh;
+}
+
+#scrollSpacer {
+	height: 8000px;
+	width: 1px;
+}
+
+#clouds {
+	height: 600px;
+	background-image: url(../images/clouds.png);
+}
